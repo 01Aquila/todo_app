@@ -1,13 +1,18 @@
 {
-    "build": {
-      "development": {
-        "developmentClient": true,
-        "distribution": "internal"
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "android": {
+        "image": "latest"
       },
-      "preview": {
-        "distribution": "internal"
-      },
-      "production": {}
-    }
+      "ios": {
+        "image": "latest"
+      }
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  }
 }
-  
