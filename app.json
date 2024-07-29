@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "todo_app",
-    "slug": "todo_app",
+    "slug": "todo-list-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ed829f6a-2f18-4ae2-9c32-51df6b7f41a6"
+      }
+    },
+    "owner": "aquilakadji2"
   }
 }
