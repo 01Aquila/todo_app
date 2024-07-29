@@ -29,6 +29,21 @@
         "projectId": "ed829f6a-2f18-4ae2-9c32-51df6b7f41a6"
       }
     },
-    "owner": "aquilakadji2"
+    "owner": "aquilakadji2",
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "/app/constants/fonts/Fontspring-DEMO-oktah_round_light-BF6407f0f62843b.otf",
+            "/app/constants/fonts/Fontspring-DEMO-oktah_round_light_italic-BF6407f0f68acb5.otf",
+            "/app/constants/fonts/Fontspring-DEMO-oktah_round_regular-BF6407f0f67a04a.otf",
+            "/app/constants/fonts/Fontspring-DEMO-oktah_round_regular_italic-BF6407f0f67d91f.otf",
+            "/app/constants/fonts/oktah_round_bold_italic-BF6407f0ed72273.otf",
+            "/app/constants/fonts/oktah_round_light-BF6407f0ed773d3.otf"
+          ]
+        }
+      ]
+    ]
   }
 }
